@@ -16,6 +16,7 @@ signals and models.
 
 ## Repository Structure
 
+```text
 quant_project/
 ├── quant_tools/
 │   ├── __init__.py
@@ -31,6 +32,7 @@ quant_project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Backtester Design
 
